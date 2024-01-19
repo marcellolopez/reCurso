@@ -1,0 +1,9 @@
+[2024-01-18 22:08:10] : Iniciando driver
+[2024-01-18 22:08:10] : Haciendo login
+[2024-01-18 22:08:12] : Ingresando...
+[2024-01-18 22:08:17] : Esperando carga de elemento /html/body/div[2]/div[1]/ul//a
+[2024-01-18 22:08:18] : Entra al enlace
+[2024-01-18 22:08:18] : Esperando 3 segundos...
+[2024-01-18 22:08:21] : Probando indice
+[2024-01-18 22:08:21] : Esperando carga de elemento /html/body/div[2]/div[1]/ul/li[1]/a
+[2024-01-18 22:08:21] : Esperando 5 segundos...
