@@ -1,3 +1,4 @@
+# funciones.py
 import random
 import string
 from selenium import webdriver

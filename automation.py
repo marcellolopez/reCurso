@@ -1,3 +1,4 @@
+# automation.py
 # reCurso
 # Herramienta para contestar una prueba de SQL con Chat GPT
 
